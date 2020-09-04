@@ -1,0 +1,2 @@
+# QAautoFramework
+Basic Selenium framework
